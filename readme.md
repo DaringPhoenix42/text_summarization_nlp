@@ -146,7 +146,6 @@ These scripts will:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute this code as per the license terms. Attribution is appreciated.
+This project is licensed under the [MIT License](LICENSE).
 
-```
 
