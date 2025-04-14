@@ -1,8 +1,3 @@
-Below is an **enhanced** version of your README that keeps the same sections and flow but refines the language, structure, and clarity. Feel free to tailor it further to your needs!
-
----
-
-```markdown
 # Text Summarization Project
 
 This repository demonstrates a complete data pipeline for **automated text summarization**. It scrapes news articles from [Inshorts](https://inshorts.com) across multiple categories (Technology, Sports, and World), preprocesses and normalizes the text, and then generates frequency-based summaries. The final output is written to a CSV file for easy sharing or analysis.
@@ -153,6 +148,5 @@ The **Text Summarization Project** converts large volumes of news data into conc
   - NLTK corpus downloads: `stopwords` and `punkt`  
   - spaCy model: `en_core_web_sm`  
 
----
 
 
