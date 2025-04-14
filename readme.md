@@ -1,6 +1,4 @@
-Below is a complete `README.md` file that you can copy and paste directly into your project:
 
----
 
 ```markdown
 # Text Summarization Project
@@ -152,6 +150,3 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ```
 
----
-
-Feel free to modify the text to better suit your project's specifics (such as repository URLs, additional features, or updated instructions).
